@@ -30,6 +30,7 @@
 
 ###  **启动代理** <a id="qi-dong-dai-li"></a>
 
- 1.订阅完成后，Potatso Lite会自动更新节点信息，点击「PROXY」选单，然后选择一个想要使用的节点。最后点击「Start」按钮启动代理。 **（推荐打开 Smart Routing）** ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LNbQsuQdZRov0aGMO5p%2F-L_RFBCd6hJBxTkmqtIQ%2F-L_RH-LR6dK0qm774xri%2F10.png?alt=media&token=6cb18629-d84d-40a5-ba65-e7bf87c8d91a) 
+ 1.订阅完成后，Potatso Lite会自动更新节点信息，点击「PROXY」选单，然后选择一个想要使用的节点。最后点击「Start」按钮启动代理。 **（推荐打开 Smart Routing）** 
+ ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LNbQsuQdZRov0aGMO5p%2F-L_RFBCd6hJBxTkmqtIQ%2F-L_RH-LR6dK0qm774xri%2F10.png?alt=media&token=6cb18629-d84d-40a5-ba65-e7bf87c8d91a) 
 
 2.如果是首次连接，则系统会弹出建立网络连接提示框，请点击「Allow / 同意」。 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LNbQsuQdZRov0aGMO5p%2F-L_RFBCd6hJBxTkmqtIQ%2F-L_RHQTqD466lBftZwyk%2F11.png?alt=media&token=4d01051f-510e-4844-b609-434762b5c219)
