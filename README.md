@@ -3,7 +3,7 @@
 **欢迎使用科·云**
 
 科云官网：[www.keyun.me](www.keyun.me)          
-备用网址：[www.kyssr.xyz ](www.kyssr.xyz)
+备用网址：[www.kyssr.xyz](www.kyssr.xyz)
 
 ### 这有所有节点的使用教程，第一次使用的用户请仔细阅读。
 
