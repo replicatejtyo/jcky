@@ -24,3 +24,4 @@
 * 在 Windows 上使用 SOCKS5 代理：127.0.0.1:1080
 
 ## 如还有其它问题请加入TG群：[t.me/kyssr](https://t.me/kyssr)
+
