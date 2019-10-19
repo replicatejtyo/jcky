@@ -9,7 +9,7 @@
   * [订阅教程](Android/Subscribe.md)
   * [二维码及粘贴板使用](Android/QRClipboard.md)
 * [IOS使用教程](ios/README.md)
-  * [Shadowrocket](ios/shadowrocket.md)
+  * [Shadowrocket](ios/Shadowrocket.md)
   * [Potatso Lite\(推荐\)](ios/PotatsoLite.md)
   * [Quantumult](iog/quantumult.md)
 * [MAC端使用教程](MAC.md)
