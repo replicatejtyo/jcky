@@ -16,7 +16,7 @@
 
 如需使用line需要设置代理：
 
-![](.gitbook/assets/image%20%289%29.png)
+![](https://www.590103.idv.tw/blog/wp-content/uploads/2016/10/1.jpg)
 
 * 在 Mac 上使用 HTTP 代理：127.0.0.1:1087
 * 在 Mac 上使用 SOCKS5 代理：127.0.0.1:1086
