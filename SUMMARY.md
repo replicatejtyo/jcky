@@ -11,7 +11,7 @@
 * [IOS使用教程](ios/README.md)
   * [Shadowrocket](ios/Shadowrocket.md)
   * [Potatso Lite\(推荐\)](ios/PotatsoLite.md)
-  * [Quantumult](iog/quantumult.md)
+  * [Quantumult](ios/quantumult.md)
 * [MAC端使用教程](MAC.md)
 * [常见问题](FQA.md)
 * [常用软件安装](download.md)
